@@ -5,6 +5,12 @@
     <url>/2020/04/04/test/</url>
     <content><![CDATA[<p>hhhhh</p>
 ]]></content>
+      <categories>
+        <category>python</category>
+      </categories>
+      <tags>
+        <tag>h</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -19,5 +25,11 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>ww</tag>
+      </tags>
   </entry>
 </search>
